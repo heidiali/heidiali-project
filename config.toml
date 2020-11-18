@@ -1,0 +1,4 @@
+baseURL = "https://cs-ej4104-fall-2020.github.io/heidiali-project/"
+languageCode = "en-us"
+title = "Hugo static website for Intro to DevOps"
+theme = "ananke"
