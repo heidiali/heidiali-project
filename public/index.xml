@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo static website for Intro to DevOps</title>
+    <link>https://cs-ej4104-fall-2020.github.io/heidiali-project/</link>
+    <description>Recent content on Hugo static website for Intro to DevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://cs-ej4104-fall-2020.github.io/heidiali-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the project</title>
+      <link>https://cs-ej4104-fall-2020.github.io/heidiali-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cs-ej4104-fall-2020.github.io/heidiali-project/</guid>
+      <description>About </description>
+    </item>
+    
+  </channel>
+</rss>
