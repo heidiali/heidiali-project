@@ -1,4 +1,4 @@
 title = "Hugo static website for Intro to DevOps"
-baseURL = "https://cs-ej4104-fall-2020.github.io/"
+baseURL = "https://cs-ej4104-fall-2020.github.io/heidiali-project/"
 languageCode = "en-us"
 theme = "ananke"
