@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "about"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "CS-EJ4104 (Introduction to DevOps)"
 ---
-# About
+#about
 
 Welcome to my (static) site including some information about this small DevOps project.
 

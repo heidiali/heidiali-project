@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: "about"
 date: 2020-11-19T22:03:54+02:00
 draft: true
 ---
-# About CS-EJ4104 (Introduction to DevOps)
+# About 
+<h1>about</h1>
+## CS-EJ4104 (Introduction to DevOps)
 * Some reasons to choose Introduction to DevOps course:
 * Why DevOps? DevOps is collaboration between Development, Operations and other teams, trying to achieve business goals. The concept was started around 2009 and DevOps practice can give you great advantages. F.ex. Deploy 30 times more frequently and 200 times faster, with 60 % fewer disruptions and recover 168 times faster when failure is experienced. **Leading to more profitable companies & higher job satisfaction! Thus a virtuous cycle.**
 * The course? It's a 2 op course intent on giving the students an introduction to DevOps through videos explaining the key concepts and a rehearsal project. Some of the key things taught include: CAMS (Culture, Automation, measurement and sharing), version control, automation, CI/CD (CD (Continuous delivery/deployment) pipelines, LEAN, a bit about Scrum mentioned in culture and continous learning.
