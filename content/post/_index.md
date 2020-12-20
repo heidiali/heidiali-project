@@ -1,10 +1,8 @@
 ---
 title: "about"
-# featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 featured_image: '/images/otter_unsplash.jpg'
 description: "CS-EJ4104 (Introduction to DevOps)"
 showimages: true
-# featured_image: ''
 ---
 # Blog posts
 

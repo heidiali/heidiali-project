@@ -1,5 +1,5 @@
 ---
-title: "LearningDevOps"
+title: "Learning DevOps"
 date: 2020-12-20T21:08:36+02:00
 draft: false
 ---

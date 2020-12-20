@@ -4,7 +4,6 @@ title: "about"
 featured_image: '/images/otter_unsplash.jpg'
 description: "CS-EJ4104 (Introduction to DevOps)"
 showimages: true
-# featured_image: ''
 ---
 # About
 
@@ -14,7 +13,7 @@ Hei ja tervetuloa! Hello and welcome! My name is Heidi, I'm living in greater He
 
 During my time off I also enjoy heading outdoors, a selection of sports activities and naturally chilling. 
 
-What do I do for a living then? I'm junior coder, learning more and doing some web development, mostly. My interests are broad and I still aim to learn various sofwares and systems in IT industry. Basically, at the moment I feel I'm mostly constantly continuously learning about new tools and working methods.
+<!-- What do I do for a living then? I'm junior coder, learning more and doing some web development, mostly. My interests are broad and I still aim to learn various sofwares and systems in IT industry. Basically, at the moment I feel I'm mostly constantly continuously learning about new tools and working methods. -->
 
 
 {{< figure src="/heidiali-project/static/images/otter_unsplash.jpg" title="Otter!" >}}
@@ -40,7 +39,7 @@ What do I do for a living then? I'm junior coder, learning more and doing some w
 
 [`CSEJ`] (https://cs-ej4104-fall-2020.github.io/heidiali-project/post/csej/)
 
-[Learning (learned) DevOps] [1]
+[Learning DevOps] [1]
 Here are some thoughts on the topic of learning on the course CS-EJ4104. The were many topics that were mentioned, and I will only mention a few. Also some of my own thoughts on things that I found tricky or easy. 
 - This was a good introduction to DevOps in my mind. The videos were very to the point, and I feel that they gave a good overview of CAMS and continuous improvement and the ways to achieve it. The stages and goals of each part of DevOps were clearly explained as were some tools that relate to the doing. It was also good to clear the difference between terms continuous delivery and continuous deployment, which were previously a bit mixed for me. 
 - The cource had two quizzes. They were quite nice to complete with the help of the material, but indeed some options took a bit of browsing and checking notes. 
