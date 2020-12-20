@@ -1,7 +1,7 @@
 ---
 title: "LearningDevOps"
 date: 2020-12-20T21:08:36+02:00
-draft: true
+draft: false
 ---
 # Learning DevOps
 Here are some thoughts on the topic of learning on the course CS-EJ4104. The were many topics that were mentioned, and I will only mention a few. Also some of my own thoughts on things that I found tricky or easy. 

@@ -1,7 +1,7 @@
 ---
 title: "Csej"
 date: 2020-12-20T21:22:30+02:00
-draft: true
+draft: false
 ---
 
 # About CS-EJ4104 (Introduction to DevOps)

@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-11-19T22:03:54+02:00
-draft: true
+draft: false
 ---
 # About CS-EJ4104 (Introduction to DevOps)
 * Some reasons to choose Introduction to DevOps course:
