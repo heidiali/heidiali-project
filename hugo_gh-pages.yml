@@ -41,10 +41,6 @@ jobs:
     - name: Build
       run: hugo --theme=ananke
 
-    # Step 5 - Create name file - optional
-    - name: Create cname file
-      run: echo 'freshswift.net' > public/CNAME
-
     # Step 6 - Push our generated site to our gh-pages branch
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
