@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>about on Hugo static website for Intro to DevOps</title>
+    <title>About CS-EJ4104 (Introduction to DevOps) on Hugo static website for Intro to DevOps</title>
     <link>https://cs-ej4104-fall-2020.github.io/heidiali-project/</link>
-    <description>Recent content in about on Hugo static website for Intro to DevOps</description>
+    <description>Recent content in About CS-EJ4104 (Introduction to DevOps) on Hugo static website for Intro to DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Dec 2020 21:22:30 +0200</lastBuildDate><atom:link href="https://cs-ej4104-fall-2020.github.io/heidiali-project/index.xml" rel="self" type="application/rss+xml" />
@@ -26,22 +26,13 @@
     </item>
     
     <item>
-      <title>LearningDevOps</title>
+      <title>Learning DevOps</title>
       <link>https://cs-ej4104-fall-2020.github.io/heidiali-project/post/learningdevops/</link>
       <pubDate>Sun, 20 Dec 2020 21:08:36 +0200</pubDate>
       
       <guid>https://cs-ej4104-fall-2020.github.io/heidiali-project/post/learningdevops/</guid>
       <description>Learning DevOps Here are some thoughts on the topic of learning on the course CS-EJ4104. The were many topics that were mentioned, and I will only mention a few. Also some of my own thoughts on things that I found tricky or easy.
  This was a good introduction to DevOps in my mind. The videos were very to the point, and I feel that they gave a good overview of CAMS and continuous improvement and the ways to achieve it.</description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://cs-ej4104-fall-2020.github.io/heidiali-project/posts/</link>
-      <pubDate>Tue, 01 Dec 2020 22:50:16 +0200</pubDate>
-      
-      <guid>https://cs-ej4104-fall-2020.github.io/heidiali-project/posts/</guid>
-      <description></description>
     </item>
     
     <item>

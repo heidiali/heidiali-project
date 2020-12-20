@@ -1,5 +1,6 @@
 ---
 title: "About"
+featured_image: '/images/otter2.jpg'
 date: 2020-11-19T22:03:54+02:00
 draft: false
 ---

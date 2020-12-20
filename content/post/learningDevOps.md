@@ -1,6 +1,7 @@
 ---
 title: "Learning DevOps"
 date: 2020-12-20T21:08:36+02:00
+featured_image: '/images/otter_unsplash.jpg'
 draft: false
 ---
 # Learning DevOps
