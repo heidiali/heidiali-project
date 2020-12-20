@@ -6,20 +6,7 @@ description: "CS-EJ4104 (Introduction to DevOps)"
 showimages: true
 # featured_image: ''
 ---
-# About
-
-Welcome to my (static) site including some information about this small DevOps project.
-
-{{< figure src="/heidiali-project/static/images/otter_unsplash.jpg" title="Otter!" >}}
-![Otter] (/static/images/otter_unsplash.jpg)
-![Otter2] (/static/otter_unsplash.jpg)
-![Otter3] (/static/images/otter_unsplash.jpg)
-
-{{< figure src="/static/images/otter_unsplash.jpg" title="Otter2!" >}}
-{{< figure src="/static/otter_unsplash.jpg" title="Otter3!" >}}
-<!-- testing for theme logo -->
-{{- $image := resources.Get “images/imgproc.jpg” -}}
-
+# Blog posts
 
 Hei ja tervetuloa! Hello and welcome! My name is Heidi, I'm living in greater Helsinki area, quite close to the city. I'm one of the people who wandered to FiTech course selection and decided to roll for some coding fun in the evenings. Or more like DevOps fun. 
 
