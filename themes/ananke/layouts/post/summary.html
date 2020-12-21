@@ -12,4 +12,14 @@
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       {{ .Summary  }}
     </div>
+
+    {{ if .featured_image }}
+      <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+      <a href="{{.Permalink}}" class="db grow">
+        <img src="{{ .featured_image }}" class="img" alt="image from {{ .Title }}" width="350" height="300">
+      </a>
+    </div>
+    {{ end }}
+
+    <a href="#" class="image featured">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}
   </div>
