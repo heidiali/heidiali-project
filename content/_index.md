@@ -1,7 +1,7 @@
 ---
-title: "About CS-EJ4104 (Introduction to DevOps)"
+title: "Introduction to DevOps"
 featured_image: '/images/otter_unsplash.jpg'
-description: "CS-EJ4104 (Introduction to DevOps)"
+description: "Introduction to DevOps"
 showimages: true
 ---
 # About
