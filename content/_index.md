@@ -5,15 +5,7 @@ description: "CS-EJ4104 (Introduction to DevOps)"
 showimages: true
 ---
 # About
-
-Welcome to my (static) site including some information about this small DevOps project.
-
-Hei ja tervetuloa! Hello and welcome! My name is Heidi, I'm living in greater Helsinki area, quite close to the city. I'm one of the people who wandered to FiTech course selection and decided to roll for some coding fun in the evenings. Or more like DevOps fun. 
-
-During my time off I also enjoy heading outdoors, a selection of sports activities and naturally chilling. 
-
-What do I do for a living then? I'm junior coder, learning more and doing some web development, mostly. My interests are broad and I still aim to learn various sofwares and systems in IT industry. Basically, at the moment I feel I'm mostly constantly continuously learning about new tools and working methods.
-
+Welcome to my (static) site including some information about this small DevOps project. My name is Heidi, I'm living in greater Helsinki area, quite close to the city. I'm one of the people who wandered to FiTech course selection and decided to roll for some coding fun in the evenings. Or more like DevOps fun. During my time off I also enjoy heading outdoors, a selection of sports activities and naturally chilling. What do I do for a living then? I'm junior coder, learning more and doing some web development, mostly. My interests are broad and I still aim to learn various sofwares and systems in IT industry. Basically, at the moment I feel I'm mostly constantly continuously learning about new tools and working methods.
 
 ## Some featured blog posts:
 [`Learning DevOps`](https://cs-ej4104-fall-2020.github.io/heidiali-project/post/learningdevops/)
