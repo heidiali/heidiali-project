@@ -1,9 +1,10 @@
 ---
-title: "Learning"
+title: "learned devops"
 date: 2020-11-19T22:03:45+02:00
+featured_image: '/images/otter_unsplash.jpg'
 draft: false
 ---
-# Learning DevOps
+# Learned devops
 Here are some thoughts on the topic of learning on the course CS-EJ4104. The were many topics that were mentioned, and I will only mention a few. Also some of my own thoughts on things that I found tricky or easy. 
 * This was a good introduction to DevOps in my mind. The videos were very to the point, and I feel that they gave a good overview of CAMS and continuous improvement and the ways to achieve it. The stages and goals of each part of DevOps were clearly explained as were some tools that relate to the doing. It was also good to clear the difference between terms continuous delivery and continuous deployment, which were previously a bit mixed for me. 
 * The cource had two quizzes. They were quite nice to complete with the help of the material, but indeed some options took a bit of browsing and checking notes. 

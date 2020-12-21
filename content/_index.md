@@ -10,7 +10,7 @@ Welcome to my (static) site including some information about this small DevOps p
 ## Some featured blog posts:
 [`Learning DevOps`](https://cs-ej4104-fall-2020.github.io/heidiali-project/post/learningdevops/)
 
-[`CSEJ`] (https://cs-ej4104-fall-2020.github.io/heidiali-project/post/csej/)
+[`CSEJ`](https://cs-ej4104-fall-2020.github.io/heidiali-project/post/csej/)
 
 [Learning DevOps] [1]
 Here are some thoughts on the topic of learning on the course CS-EJ4104. The were many topics that were mentioned, and I will only mention a few. Also some of my own thoughts on things that I found tricky or easy. 
